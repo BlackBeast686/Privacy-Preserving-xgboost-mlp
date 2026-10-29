@@ -98,9 +98,9 @@ Written for Google Colab; both datasets download automatically (Adult from the U
 ```
 privacy-preserving-xgboost-mlp/
 ├── notebooks/
-│   └── Neural_Network_XGBoost_Hybrid_Model.ipynb
+│   └── Neural_Network_XGBoost_Hybrid_Model1.ipynb
+│   └── Neural_Network_XGBoost_Hybrid_Model2.ipynb
 ├── README.md
-├── requirements.txt
 └── LICENSE
 ```
 
